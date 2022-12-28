@@ -17,12 +17,12 @@
 - [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)donedonedone
 - [Search Insert Position](https://leetcode.com/problems/search-insert-position/)donedonedonedone
 - [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)done
-- [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)done
-- [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
-- [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
-- [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)
-- [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
-- [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
+- [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)donedone
+- [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)donedone
+- [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)done
+- [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)donedone
+- [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)done
+- [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)done
 - [Binary Search](https://leetcode.com/problems/binary-search/)done
 
 ## Medium
